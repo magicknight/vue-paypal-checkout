@@ -17,9 +17,9 @@
     "lint": "eslint --ext .js,.vue src test/unit/specs"
   },
   "dependencies": {
-    "paypal-checkout": "^4.0.39",
-    "shortid": "^2.2.6",
-    "vue": "^2.1.0"
+    "paypal-checkout": "^4.0.85",
+    "shortid": "^2.2.8",
+    "vue": "^2.3.4"
   },
   "devDependencies": {
     "babel-core": "^6.25.0",
